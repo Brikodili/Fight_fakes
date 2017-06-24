@@ -1,0 +1,236 @@
+body{padding-top:70px}
+
+
+.site-sign {
+	font-family: Oswald;
+	font-size: 64px;
+	padding-bottom: 20px;
+	border-bottom: 10px #840705 solid;
+	margin-bottom: 50px;
+}
+
+.text-block {
+	padding-left: 20px;
+	padding-right: 20px;
+	margin-top: 45px;
+}
+
+.text-block a{
+
+font-family: Oswald;
+	font-size: 38px;
+	color: #000;
+	text-decoration: underline;
+}
+
+.text-block h2{
+
+font-family: Oswald;
+  font-size: 38px;
+  color: #000;
+}
+
+.text-block a:hover {
+
+color: #840705;
+
+}
+
+
+.text-block p {
+	margin-top: 30px;
+	font-family: Open Sans;
+	font-size: 18px;
+	color: #212121;
+}
+
+
+
+.navbar-default {
+  background-color: #840705;
+  border-color: #840705;
+
+}
+.navbar-default .navbar-brand {
+  color: #fff;
+  font-family: Oswald;
+  font-size: 22px;
+}
+.navbar-default .navbar-brand:hover,
+.navbar-default .navbar-brand:focus {
+  color: #fff;
+  background-color: #000;
+}
+
+.navbar-default .navbar-nav > li > a {
+  color: #fff;
+  font-size: 16px;
+  font-family: 'Open Sans';
+
+}
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus {
+  color: #fff;
+  background-color: #000;
+}
+.navbar-default .navbar-nav > .active > a,
+.navbar-default .navbar-nav > .active > a:hover,
+.navbar-default .navbar-nav > .active > a:focus {
+  color: #fff;
+  background-color: #000;
+
+}
+.navbar-default .navbar-nav > .disabled > a,
+.navbar-default .navbar-nav > .disabled > a:hover,
+.navbar-default .navbar-nav > .disabled > a:focus {
+  color: #ccc;
+  background-color: transparent;
+}
+.navbar-default .navbar-toggle {
+  border-color: #fff;
+}
+.navbar-default .navbar-toggle:hover,
+.navbar-default .navbar-toggle:focus {
+  background-color: #ddd;
+}
+.navbar-default .navbar-toggle .icon-bar {
+  background-color: #888;
+}
+.navbar-default .navbar-collapse,
+.navbar-default .navbar-form {
+  border-color: #e7e7e7;
+}
+.navbar-default .navbar-nav > .open > a,
+.navbar-default .navbar-nav > .open > a:hover,
+.navbar-default .navbar-nav > .open > a:focus {
+  color: #555;
+  background-color: #e7e7e7;
+}
+
+
+
+.fake-form  label{
+  margin-top: 10px;
+  font-family: Open Sans;
+  font-size: 21px;
+  color: #212121;
+}
+
+
+
+.fake-form  input{
+
+  font-family: Open Sans;
+  font-size: 18px;
+  color: #212121;
+  border-radius: 0px;
+}
+
+
+
+.fake-form  textarea{
+
+  font-family: Open Sans;
+  font-size: 18px;
+  color: #212121;
+  border-radius: 0px;
+}
+
+.fake-form  textarea:focus, .fake-form  input:focus{
+border-color:  #840705;
+
+}
+
+
+
+.small-links a{
+
+font-family: Open Sans;
+font-weight: bold;
+  font-size: 18px;
+  color: #000;
+  text-decoration: underline;
+}
+
+
+.small-links a:hover {
+
+color: #840705;
+
+}
+
+
+
+
+
+.fake-details{
+  padding-left: 20px;
+  padding-right: 20px;
+
+}
+
+.fake-details a{
+
+font-family: Oswald;
+  font-size: 38px;
+  color: #000;
+  text-decoration: underline;
+}
+
+
+.fake-details a:hover {
+
+color: #840705;
+
+}
+
+
+.fake-details p, .content-style p {
+margin-bottom: 25px;
+  font-family: Open Sans;
+  font-size: 18px;
+  color: #212121;
+  text-align: left;
+}
+
+.content-style {
+  border-top: 4px solid #840705; margin-top: 50px; padding-top: 50px;
+}
+
+.content-style h1 {
+  font-family: Oswald;
+  font-size: 38px;
+  color:  #000;
+  padding-bottom: 25px;
+}
+
+.content-style a {
+  color: #000;
+  text-decoration: underline;
+}
+
+.content-style a:hover {
+  color:  #840705;
+ 
+}
+
+
+a .btn-share {
+  margin-top: 50px;
+ background-color:  #840705;
+ font-size: 24px;
+ font-family: Oswald;
+ color: #fff;
+ text-decoration: none;
+text-align: center;
+padding-top: 30px;
+padding-bottom: 30px;
+
+}
+
+a .btn-share:hover {
+
+ background-color:  #000;
+
+
+}
