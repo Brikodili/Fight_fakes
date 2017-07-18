@@ -211,7 +211,7 @@ margin-bottom: 25px;
 
 .content-style a:hover {
   color:  #840705;
- 
+
 }
 
 
@@ -229,8 +229,54 @@ padding-bottom: 30px;
 }
 
 a .btn-share:hover {
-
  background-color:  #000;
 
+}
+
+
+/* FOOTER */
+
+footer {
+  background-color:#1C1C1C;
+  min-height:50px;
+   }
+.footer-logo{
+  text-align:center;
+  position: relative;
 
 }
+
+
+ .copyright {
+  max-height:45px;
+  background-color: #CD2626;
+  border-top: 6px #1C1C1C solid;
+  }
+ .copyright p {
+  text-align:center;
+  color:#FFF;
+  padding:10px 0;
+  margin-bottom:0px;
+  }
+
+ .bottom_ul {
+  list-style-type:none;
+  float:right;
+  margin-bottom:0px;
+  }
+ .bottom_ul li {
+  float:left;
+  line-height:40px;
+  }
+ .bottom_ul li:after {
+  content:"/";
+  color:#FFF;
+  margin-right:8px;
+  margin-left:8px;
+  }
+ .bottom_ul li a {
+  color:#FFF;
+  font-size:16px;
+  }
+
+/* /footer */
