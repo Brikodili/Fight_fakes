@@ -234,7 +234,9 @@ a .btn-share:hover {
 
 
 }
-
+body>.container {
+      min-height: calc(100vh - 130px);
+}
 
 /* FOOTER */
 
