@@ -257,8 +257,8 @@ footer {
  .copyright p {
   text-align:center;
   color:#FFF;
-  padding:10px 0;
-  margin-bottom:0px;
+  padding:5px 0;
+  margin-bottom:5px;
   }
 
  .bottom_ul {
@@ -271,7 +271,7 @@ footer {
   line-height:40px;
   }
  .bottom_ul li:after {
-  content:"/";
+  content:"|";
   color:#FFF;
   margin-right:8px;
   margin-left:8px;
