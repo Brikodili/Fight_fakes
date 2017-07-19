@@ -250,14 +250,14 @@ footer {
 
 
  .copyright {
-  max-height:45px;
+  min-height:50px;
   background-color: #CD2626;
   border-top: 6px #1C1C1C solid;
   }
  .copyright p {
   text-align:center;
   color:#FFF;
-  padding:5px 0;
+  padding:10px 0;
   margin-bottom:5px;
   }
 
