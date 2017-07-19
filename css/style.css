@@ -5,7 +5,7 @@ body{padding-top:70px}
 	font-family: Oswald;
 	font-size: 64px;
 	padding-bottom: 20px;
-	border-bottom: 10px #840705 solid;
+	border-bottom: 10px #CD2626 solid;
 	margin-bottom: 50px;
 }
 
@@ -47,8 +47,8 @@ color: #840705;
 
 
 .navbar-default {
-  background-color: #840705;
-  border-color: #840705;
+  background-color: #CD2626;
+  border-color: #CD2626;
 
 }
 .navbar-default .navbar-brand {
@@ -280,3 +280,5 @@ footer {
   }
 
 /* /footer */
+
+
