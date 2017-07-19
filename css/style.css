@@ -2,25 +2,25 @@ body{padding-top:70px}
 
 
 .site-sign {
-	font-family: Oswald;
-	font-size: 64px;
-	padding-bottom: 20px;
-	border-bottom: 10px #CD2626 solid;
-	margin-bottom: 50px;
+  font-family: Oswald;
+  font-size: 64px;
+  padding-bottom: 20px;
+  border-bottom: 10px  #CD2626 solid;
+  margin-bottom: 50px;
 }
 
 .text-block {
-	padding-left: 20px;
-	padding-right: 20px;
-	margin-top: 45px;
+  padding-left: 20px;
+  padding-right: 20px;
+  margin-top: 45px;
 }
 
 .text-block a{
 
 font-family: Oswald;
-	font-size: 38px;
-	color: #000;
-	text-decoration: underline;
+  font-size: 38px;
+  color: #000;
+  text-decoration: underline;
 }
 
 .text-block h2{
@@ -32,16 +32,16 @@ font-family: Oswald;
 
 .text-block a:hover {
 
-color: #840705;
+color:  #CD2626;
 
 }
 
 
 .text-block p {
-	margin-top: 30px;
-	font-family: Open Sans;
-	font-size: 18px;
-	color: #212121;
+  margin-top: 30px;
+  font-family: Open Sans;
+  font-size: 18px;
+  color: #212121;
 }
 
 
@@ -229,7 +229,9 @@ padding-bottom: 30px;
 }
 
 a .btn-share:hover {
+
  background-color:  #000;
+
 
 }
 
@@ -278,6 +280,7 @@ footer {
   color:#FFF;
   font-size:16px;
   }
+
 
 /* /footer */
 
