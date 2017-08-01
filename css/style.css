@@ -1,4 +1,6 @@
-body{padding-top:70px}
+body{
+  background-color: #FECFA3;
+  padding-top:70px}
 
 
 .site-sign {
@@ -283,3 +285,49 @@ footer {
   color:#FFF;
   font-size:16px;
   }
+
+
+
+
+a .btn-share-sm {
+  margin-top: 10px;
+ background-color:  #840705;
+ font-size: 16px;
+ font-family: Oswald;
+ color: #fff;
+ text-decoration: none;
+text-align: center;
+padding-top: 15px;
+padding-bottom: 15px;
+
+}
+
+a .btn-share-sm:hover {
+
+ background-color:  #000;
+
+}
+
+
+.container {
+  background-color: #fff;
+}
+
+.site-sign-sm {
+  font-family: Oswald;
+  font-size: 24px;
+  padding-bottom: 20px;
+  border-bottom: 5px  #CD2626 solid;
+  margin-bottom: 30px;
+  text-align: left;
+
+}
+
+.site-sign-sm a {
+  color:  #000;
+}
+
+.mrb40 {
+  margin-bottom: 40px;
+
+}
